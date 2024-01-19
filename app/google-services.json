@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991099971449",
+    "project_id": "blueshopcart",
+    "storage_bucket": "blueshopcart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991099971449:android:a19a1e4ad73fd9bafd31a8",
+        "android_client_info": {
+          "package_name": "com.example.blueshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkoYnAYHXRwdWeXGRdSp2ZQj8nlSG9tHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
